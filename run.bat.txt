@@ -1,0 +1,3 @@
+cd C:\Users\gopik\eclipse-workspace\FrameWorkDemo
+dir
+maven clean test
